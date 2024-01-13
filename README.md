@@ -19,7 +19,7 @@ Create a Product:
 Endpoint: POST /products
 Request body example:
 
-{
+// {
   "name": "Example Product",
   "description": "This is an example product.",
   "price": 29.99,
@@ -32,7 +32,7 @@ Request body example:
     }
   ]
 }
--------------------------------
+//
 Update a Product:
 Endpoint: PUT /products/{productId}
 Request body example:
