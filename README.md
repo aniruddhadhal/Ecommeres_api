@@ -26,7 +26,9 @@ This Node.js and Express application serves as a simple API for an e-commerce sy
 npm install
 
 3.Start the server
+
 npm start
+
 The server will run on http://localhost:3000 by default.
 
 API Usage
