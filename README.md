@@ -32,12 +32,12 @@ Request body example:
     }
   ]
 }
-*
+
 Update a Product:
 Endpoint: PUT /products/{productId}
 Request body example:
 
-{
+* {
   "name": "Updated Example Product",
   "description": "This is an updated example product.",
   "price": 34.99,
@@ -50,4 +50,4 @@ Request body example:
     }
   ]
 }
--
+
